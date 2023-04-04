@@ -1,7 +1,8 @@
 # kompPDF
 pdf Komprimieren in Stapelverarbeitung
 
-Mit diesem Tool kann man gleich mehrere PDF Datein mit ghostscript komprimieren.<br>
+Mit diesem Tool kann man gleich mehrere PDF Datein mit ghostscript in der<br>
+Shell komprimieren.<br>
 
 Vorher ghostscript und rename installieren und kompPDF ausführbar machen.<br>
 Das Script kompPDF.sh in das Verzeichns legen in dem die zum Komprieren<br>
