@@ -19,7 +19,7 @@ Komprimierung automatisch gelöscht werden!
 Es kann keine JPG oder andere Formate komprimieren nur PDF.
 
 Optionen:
--a Komplette GhostScript Ausgabe
+-a Komplette GhostScript Ausgabe\n
 -u Dateinamen mit Unterstrich trennen
 -f Vor dem Löschen nicht fragen   
 
