@@ -1,7 +1,7 @@
 #!/bin/bash
 
 << 'Kommentar'
-    smallFire - TCP Monitor
+    kompPDF - Komprimieren in Stapelverarbeitung für pdf Dateien
     Copyright (C) 2023  André Dittmann
 
     This program is free software: you can redistribute it and/or modify
