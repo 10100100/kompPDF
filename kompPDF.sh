@@ -1,7 +1,7 @@
 #!/bin/bash
 
 << 'Kommentar'
-    kompPDF - Komprimieren in Stapelverarbeitung für pdf Dateien
+    kompPDF - Komprimieren von pdf Dateien in Stapelverarbeitung 
     Copyright (C) 2023  André Dittmann
 
     This program is free software: you can redistribute it and/or modify
